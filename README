@@ -1,5 +1,5 @@
 ****************************************************************
-    chcsv version 2.0, Copyright (C) 1999 Batayan.
+    chcsv version 2.1, Copyright (C) 2022 Batasan Bloh.
 
     chcsv comes with ABSOLUTELY NO WARRANTY.
     This is free software, and you are welcome to redistribute it
@@ -92,6 +92,9 @@ Usage: chcsv    userid/password
 
 
 [HISTORY]
+
+2.1  2022-07-01
+     Fixed to fit to recent environment.
 
 2.0  1999-03-29
      Array fetch is available. -h and -a options are added.

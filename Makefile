@@ -2,10 +2,11 @@
 PROGRAM = chcsv
 OBJS = chcsv.o sqlda.o Option.o OutPut.o Signal.o
 CC = gcc
+LDFLAGS = -lclntsh
 
 #
 $(PROGRAM):	$(OBJS)
-	gcc -o $(PROGRAM) $(OBJS) -L ${ORACLE_HOME}/lib -lclntsh
+	gcc -o $(PROGRAM) $(OBJS) -L ${ORACLE_HOME}/lib $(LDFLAGS)
 #
 .SUFFIXES: .pc .c .o
 

@@ -24,7 +24,7 @@
 #ifndef _CHCSV_
 #define _CHCSV_
 
-#define VERSION 2.0        /* chcsv version */
+#define VERSION 2.1        /* chcsv version */
 #define MAXVALUE 10        /* Initial number of combined variables */
 
 EXEC SQL BEGIN DECLARE SECTION; 
