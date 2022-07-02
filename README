@@ -94,7 +94,7 @@ Usage: chcsv    userid/password
 [HISTORY]
 
 2.1  2022-07-01
-     Fixed to fit to recent environment.
+     Fixed to fit recent environment.
 
 2.0  1999-03-29
      Array fetch is available. -h and -a options are added.
