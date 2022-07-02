@@ -113,9 +113,14 @@ Usage: chcsv    userid/password
 
 
 ****************************************************************
-    If you have any PROBLEMS with chcsv, or find BUGS, please mailto
+    chcsv is distributed under the GNU General Public License.
+    chcsv comes with ABSOLUTELY NO WARRANTY.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions, GPL.
 
-        kawabata@personal.email.ne.jp  (Batayan)      
+       GitHub: https://github.com/batasanblog/chcsv
+       Blog  : https://batasanblog.blogspot.com
+             : https://batasanblog.hateblo.jp
 
-    Thank you !!!
+     Thank you !!!  batasanblog@outlook.com
 ****************************************************************
