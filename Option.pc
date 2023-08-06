@@ -200,8 +200,6 @@ OptionErr()
     fprintf( stderr, "    This is free software, and you are welcome to redistribute it\n" );
     fprintf( stderr, "    under certain conditions, GPL.\n\n" );
     fprintf( stderr, "       GitHub: https://github.com/batasanblog/chcsv\n" );
-    fprintf( stderr, "       Blog  : https://batasanblog.blogspot.com\n" );
-    fprintf( stderr, "             : https://batasanblog.hateblo.jp\n" );
     fprintf( stderr, "     Thank you !!!\n" );
     fprintf( stderr, "*********************************************************************\n" );
     exit(1);
